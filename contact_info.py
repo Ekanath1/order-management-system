@@ -85,6 +85,6 @@ while True:
                 print(f"{name}: {number}")
     elif inp == 6:
         print("Exiting...")
-        break
+        exit()
     else:
         print("Invalid option. Try again.")
